@@ -36,6 +36,7 @@ Features:
 ## Start
 
 ```sh
+npm install #scris de Ovidiu
 npm run build
 npm run start #( windows, do npm run start_windows )
 # npm run dev for working on code
