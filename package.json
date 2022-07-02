@@ -13,13 +13,13 @@
     "glob": "^7.1.7",
     "i18next": "^20.2.1",
     "i18next-browser-languagedetector": "^6.1.0",
-    "next": "^10.0.3",
+    "next": "^12.2.0",
     "postcss": "^8.4.14",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-i18next": "^11.8.13",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.1",
+    "react-scripts": "^5.0.1",
     "tailwindcss": "^2.0.2",
     "uuid": "^8.3.2",
     "web-vitals": "^0.2.4",
@@ -34,6 +34,6 @@
     "parse-locales": "i18next-scanner --config ./i18n/i18next-scanner.config.js"
   },
   "devDependencies": {
-    "i18next-scanner": "^3.0.0"
+    "i18next-scanner": "^1.2.1"
   }
 }
