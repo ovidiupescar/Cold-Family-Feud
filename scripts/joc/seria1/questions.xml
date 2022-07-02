@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+<question text="1.Ce produse gasesti in bagajul fiecarui copil, cand vine in tabara?">
+<answer text="Haine " points="34"/>
+<answer text="Trusa Igiena " points="11"/>
+<answer text="Dulciuri " points="10"/>
+<answer text="Cravata" points=" 9"/>
+<answer text="Tacamuri" points=" 5"/>
+<answer text="Incaltaminte" points=" 5"/>
+<answer text="Pelerina" points=" 4"/>
+<answer text="Biblia" points=" 4"/> </question>
+<question text="2.Daca ai fi singur in tabara ce ai face toata ziua?">
+<answer text="M-as plimba " points="15"/>
+<answer text="M-as plictisi" points=" 9"/>
+<answer text="As dormi" points=" 8"/>
+<answer text="M-as da pe tiroliana" points=" 7"/>
+<answer text="M-as juca" points=" 5"/>
+<answer text="As citi" points=" 3"/>
+<answer text="As canta" points=" 3"/>
+<answer text="M-as bronza" points=" 1"/> </question>
+<question text="3. Numeste un lucru fara de care nu poti sa pleci de acasa.">
+<answer text="Telefonul " points="16"/>
+<answer text="Haine" points=" 5"/>
+<answer text="Pantofi" points=" 5"/>
+<answer text="Bani" points=" 4"/>
+<answer text="Biblia" points=" 3"/>
+<answer text="Cortul" points=" 3"/>
+<answer text="Sampon" points=" 2"/>
+<answer text="Cheile" points=" 1"/> </question>
+<question text="4.Care este primul lucru pe care il faci dimineata, dupa ce te trezesti?">
+<answer text="Igiena personala " points="18"/>
+<answer text="Ma rog " points="15"/>
+<answer text="Inviorarea" points=" 5"/>
+<answer text="Citesc" points=" 4"/>
+<answer text="Mai stau putin in pat" points=" 4"/>
+<answer text="Beau apa" points=" 2"/>
+<answer text="Verific telefonul" points=" 1"/>
+<answer text="Ma uit la ceas" points=" 1"/> </question>
+<question text="5.Care animal fuge cel mai repede?">
+<answer text="Ghepardul " points="38"/>
+<answer text="Leopardul" points=" 7"/>
+<answer text="Calul" points=" 6"/>
+<answer text="Iepurele" points=" 5"/>
+<answer text="Tigrul" points=" 4"/>
+<answer text="Leul" points=" 3"/>
+<answer text="Soarecele" points=" 2"/>
+<answer text="Gazela" points=" 1"/> </question>
+<question text="6.Ce poti gasi sub o canapea?">
+<answer text="Praf " points="27"/>
+<answer text="Monede" points=" 8"/>
+<answer text="Jucarii" points=" 5"/>
+<answer text="Sosete" points=" 4"/>
+<answer text="Mizerie" points=" 4"/>
+<answer text="Papuci" points=" 2"/>
+<answer text="Paianjeni" points=" 1"/>
+<answer text="Pixuri" points=" 1"/> </question>
+</questions>

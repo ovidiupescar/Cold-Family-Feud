@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+<question text="1.Ce nu lipseste niciodata din ghiozdanul unui scolar?">
+<answer text="Carti " points="16"/>
+<answer text="Penar " points="14"/>
+<answer text="Caiete " points="13"/>
+<answer text="Pixuri" points=" 8"/>
+<answer text="Carnet de elev" points=" 5"/>
+<answer text="Mancare" points=" 4"/>
+<answer text="Telefonul" points=" 2"/>
+<answer text="Apa" points=" 1"/> </question>
+<question text="2.In afara de pix cu ce mai puteti scrie?">
+<answer text="Creion " points="29"/>
+<answer text="Stilou " points="25"/>
+<answer text="Creta" points=" 5"/>
+<answer text="Carbune" points=" 3"/>
+<answer text="Pana" points=" 3"/>
+<answer text="Marker,carioca" points=" 3"/>
+<answer text="Pic" points=" 2"/>
+<answer text="Degetul" points=" 1"/> </question>
+<question text="3.Care este fructul tau preferat?">
+<answer text="Marul" points=" 9"/>
+<answer text="Pepenele verde" points=" 8"/>
+<answer text="Banana" points=" 6"/>
+<answer text="Piersica" points=" 4"/>
+<answer text="Capsuna" points=" 4"/>
+<answer text="Zmeura" points=" 4"/>
+<answer text="Rodia" points=" 3"/>
+<answer text="Pepenele galben" points=" 3"/> </question>
+<question text="4.Ce fruct are un singur sambure?">
+<answer text="Caisa " points="19"/>
+<answer text="Piersica " points="17"/>
+<answer text="Pruna " points="11"/>
+<answer text="Avocado " points="11"/>
+<answer text="Cireasa" points=" 8"/>
+<answer text="Visina" points=" 6"/>
+<answer text="Nectarina" points=" 3"/>
+<answer text="Mango" points=" 2"/> </question>
+<question text="5.Ce gasesti intr-o tabara?">
+<answer text="Copii " points="16"/>
+<answer text="Dormitoare" points=" 8"/>
+<answer text="Corturi" points=" 7"/>
+<answer text="Iarba" points=" 4"/>
+<answer text="Foc de tabara" points=" 3"/>
+<answer text="Prieteni" points=" 3"/>
+<answer text="Instructori" points=" 2"/>
+<answer text="Tiroliana" points=" 1"/> </question>
+<question text="6.Ce animal ti-ar place sa ai?">
+<answer text="Caine " points="18"/>
+<answer text="Iepure" points=" 5"/>
+<answer text="Urs" points=" 4"/>
+<answer text="Leu" points=" 3"/>
+<answer text="Pisica" points=" 3"/>
+<answer text="Papagal" points=" 2"/>
+<answer text="Cal" points=" 2"/>
+<answer text="Pesti" points=" 1"/> </question>
+</questions>

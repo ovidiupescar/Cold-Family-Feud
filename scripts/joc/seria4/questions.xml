@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+<question text="1.Ce e galben si se poate manca?">
+<answer text="Banana " points="28"/>
+<answer text="Pepene galben " points="10"/>
+<answer text="Lamaia" points=" 9"/>
+<answer text="Galbenusul" points=" 3"/>
+<answer text="Mamaliga" points=" 2"/>
+<answer text="Seminte de dovleac" points=" 1"/>
+<answer text="Ardei" points=" 1"/>
+<answer text="369" points="51"/> </question>
+<question text="2.Ce lucruri poti sa gasesti la o domnisoara in poseta?">
+<answer text="Ruj,strugurel " points="20"/>
+<answer text="Oglinda " points="10"/>
+<answer text="Telefon" points=" 8"/>
+<answer text="Farduri" points=" 8"/>
+<answer text="Parfum" points=" 5"/>
+<answer text="Portofel" points=" 5"/>
+<answer text="Servetele" points=" 2"/>
+<answer text="Ochelari" points=" 2"/> </question>
+<question text="3.Care este cea mai emotionanta amintire din tabara explo?">
+<answer text="Investirea" points=" 9"/>
+<answer text="Sfarsitul taberei" points=" 8"/>
+<answer text="Focul de tabara" points=" 7"/>
+<answer text="Scenetele" points=" 6"/>
+<answer text="Botezul" points=" 4"/>
+<answer text="Predica din Sabat" points=" 3"/>
+<answer text="Padurea cu povesti" points=" 2"/>
+<answer text="Deschiderea taberei" points=" 2"/> </question>
+<question text="4.Daca leul ar merge in concediu cine ar fi regele junglei?">
+<answer text="Tigrul " points="13"/>
+<answer text="Leoaica " points="10"/>
+<answer text="Maimuta" points=" 5"/>
+<answer text="Tot leul" points=" 4"/>
+<answer text="Tarzan" points=" 3"/>
+<answer text="Ursul" points=" 3"/>
+<answer text="Ghepardul" points=" 2"/>
+<answer text="Elefantul" points=" 1"/> </question>
+<question text="5.Numeste un obiect in forma de cerc.">
+<answer text="Mingea " points="15"/>
+<answer text="Roata" points=" 6"/>
+<answer text="Farfuria" points=" 5"/>
+<answer text="Soarele" points=" 3"/>
+<answer text="Inelul" points=" 3"/>
+<answer text="Capac,dop" points=" 3"/>
+<answer text="Moneda" points=" 2"/>
+<answer text="Frisbi" points=" 2"/> </question>
+<question text="6.Ce lucruri ai in casa la care nu ai renunta?">
+<answer text="Biblia " points="14"/>
+<answer text="Laptop,calculator" points=" 7"/>
+<answer text="Carti" points=" 6"/>
+<answer text="Frigider" points=" 5"/>
+<answer text="Internet" points=" 4"/>
+<answer text="Telefon" points=" 4"/>
+<answer text="TV" points=" 4"/>
+<answer text="Poze" points=" 3"/> </question>
+</questions>

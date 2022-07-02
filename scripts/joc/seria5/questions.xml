@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+<question text="1.Care consideri ca este cea mai hazlie activitate din tabara?">
+<answer text="Enjoy " points="11"/>
+<answer text="Teatrul de papusi" points=" 7"/>
+<answer text="Olimpiada" points=" 6"/>
+<answer text="Poezii obiecte pierdute" points=" 4"/>
+<answer text="Pozele" points=" 3"/>
+<answer text="Tiroliana" points=" 3"/>
+<answer text="Exploratorii au talent" points=" 3"/>
+<answer text="Genoflexiunile inainte de culcare" points=" 1"/> </question>
+<question text="2.Ce poti sa-i faci cadou unui prieten?">
+<answer text="O carte " points="16"/>
+<answer text="Bani" points=" 9"/>
+<answer text="Haine" points=" 7"/>
+<answer text="Jucarii" points=" 5"/>
+<answer text="O felicitare" points=" 4"/>
+<answer text="Un parfum" points=" 3"/>
+<answer text="Ceas" points=" 3"/>
+<answer text="Ciocolata" points=" 2"/> </question>
+<question text="3.Ce poti sa cumperi de la explo-shop?">
+<answer text="Dulciuri " points="20"/>
+<answer text="Pufuleti " points="10"/>
+<answer text="Seminte" points=" 9"/>
+<answer text="Jucarii" points=" 7"/>
+<answer text="Mingi" points=" 6"/>
+<answer text="Ciocolata" points=" 5"/>
+<answer text="Chestii" points=" 3"/>
+<answer text="Lanterne" points=" 2"/> </question>
+<question text="4. Ce se poate manca cu lingurita?">
+<answer text="Inghetata " points="18"/>
+<answer text="Iaurt " points="10"/>
+<answer text="Prajitura" points=" 9"/>
+<answer text="Supa" points=" 8"/>
+<answer text="Budinca" points=" 6"/>
+<answer text="Kiwi" points=" 1"/>
+<answer text="Gem" points=" 1"/>
+<answer text="Nutella" points=" 1"/> </question>
+<question text="5. Ce mancare ai prefera sa manaci in tabara?">
+<answer text="Cartofi prajiti " points="11"/>
+<answer text="Pizza" points=" 8"/>
+<answer text="Spaghete,macaroane" points=" 6"/>
+<answer text="Carne" points=" 5"/>
+<answer text="Fructe" points=" 4"/>
+<answer text="Supa" points=" 4"/>
+<answer text="Prajituri" points=" 2"/>
+<answer text="Clatite" points=" 1"/> </question>
+<question text="6.Ce sunete se aud in curtea unui om gospodar?">
+<answer text="Animale " points="30"/>
+<answer text="Pasari " points="14"/>
+<answer text="Unelte" points=" 9"/>
+<answer text="Motoare" points=" 6"/>
+<answer text="Muzica" points=" 3"/>
+<answer text="Glasul gospodarului" points=" 3"/>
+<answer text="Tipete de copii" points=" 2"/>
+<answer text="Glasul sotiei" points=" 1"/> </question>
+</questions>

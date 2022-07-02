@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+<question text="1.Ce obiect se poate pierde usor?">
+<answer text="Cheile " points="11"/>
+<answer text="Banii" points=" 9"/>
+<answer text="Pixul" points=" 6"/>
+<answer text="Acul" points=" 4"/>
+<answer text="Telefonul" points=" 4"/>
+<answer text="Sapca" points=" 3"/>
+<answer text="Agrafa" points=" 3"/>
+<answer text="Ochelarii" points=" 2"/> </question>
+<question text="2.Care este activitatea ta preferata de la Nadas?">
+<answer text="Tiroliana " points="19"/>
+<answer text="Focul de tabara" points=" 9"/>
+<answer text="Competitii sportive" points=" 8"/>
+<answer text="Specializari" points=" 5"/>
+<answer text="Enjoy" points=" 5"/>
+<answer text="Inviorare" points=" 3"/>
+<answer text="Trasee,drumetii" points=" 2"/>
+<answer text="Olimpiada" points=" 2"/> </question>
+<question text="3.In afara de un rucsac, ce iei cu tine intr-o drumetie de o zi?">
+<answer text="Apa " points="39"/>
+<answer text="Mancare " points="17"/>
+<answer text="Sapca,palarie " points="10"/>
+<answer text="Pelerina" points=" 6"/>
+<answer text="Telefonul" points=" 5"/>
+<answer text="Aparatul foto" points=" 3"/>
+<answer text="Ochelarii" points=" 2"/>
+<answer text="Deodorant" points=" 1"/> </question>
+<question text="4.Numeste un desert preferat de copii.">
+<answer text="Inghetata " points="20"/>
+<answer text="Ciocolata " points="12"/>
+<answer text="Prajituri" points=" 8"/>
+<answer text="Budinca" points=" 6"/>
+<answer text="Clatite" points=" 4"/>
+<answer text="Pufuleti" points=" 1"/>
+<answer text="PMMC" points=" 1"/>
+<answer text="Cereale" points=" 1"/> </question>
+<question text="5.Care animal fuge cel mai repede?">
+<answer text="Ghepardul " points="38"/>
+<answer text="Leopardul" points=" 7"/>
+<answer text="Calul" points=" 6"/>
+<answer text="Iepurele" points=" 5"/>
+<answer text="Tigrul" points=" 4"/>
+<answer text="Leul" points=" 3"/>
+<answer text="Soarecele" points=" 2"/>
+<answer text="Gazela" points=" 1"/> </question>
+<question text="6.La o intalnire explo ce trebuie sa ai neaparat la tine?">
+<answer text="Cravata " points="41"/>
+<answer text="Biblia" points=" 7"/>
+<answer text="Tinuta tip A" points=" 4"/>
+<answer text="Caietul" points=" 3"/>
+<answer text="Pix" points=" 3"/>
+<answer text="Pachetel cu mancare" points=" 2"/>
+<answer text="Diagonala" points=" 1"/>
+<answer text="Sapca" points=" 1"/> </question>
+</questions>
